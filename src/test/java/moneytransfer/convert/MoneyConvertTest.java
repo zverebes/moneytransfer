@@ -1,12 +1,11 @@
 package moneytransfer.convert;
 
-import moneytransfer.convert.exchangerate.ExchangeRate;
-import moneytransfer.convert.exchangerate.ExchangeRateService;
+import moneytransfer.exchangerate.ExchangeRate;
+import moneytransfer.exchangerate.ExchangeRateService;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.mockito.Mock;
-import org.mockito.Mockito;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import java.math.BigDecimal;

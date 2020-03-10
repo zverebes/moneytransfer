@@ -1,4 +1,4 @@
-package moneytransfer.convert.exchangerate.api;
+package moneytransfer.exchangerate.api;
 
 import java.util.Map;
 

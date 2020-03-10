@@ -1,6 +1,6 @@
-package moneytransfer.convert.exchangerate;
+package moneytransfer.exchangerate;
 
-import moneytransfer.convert.exchangerate.api.ExchangeRateResponse;
+import moneytransfer.exchangerate.api.ExchangeRateResponse;
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;

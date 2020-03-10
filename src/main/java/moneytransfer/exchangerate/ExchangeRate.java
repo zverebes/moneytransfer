@@ -1,4 +1,4 @@
-package moneytransfer.convert.exchangerate;
+package moneytransfer.exchangerate;
 
 import java.math.BigDecimal;
 

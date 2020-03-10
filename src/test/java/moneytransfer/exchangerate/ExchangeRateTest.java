@@ -1,4 +1,4 @@
-package moneytransfer.convert.exchangerate;
+package moneytransfer.exchangerate;
 
 import org.junit.jupiter.api.Test;
 

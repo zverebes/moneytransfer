@@ -1,7 +1,7 @@
 package moneytransfer.convert;
 
-import moneytransfer.convert.exchangerate.ExchangeRate;
-import moneytransfer.convert.exchangerate.ExchangeRateService;
+import moneytransfer.exchangerate.ExchangeRate;
+import moneytransfer.exchangerate.ExchangeRateService;
 import org.springframework.stereotype.Service;
 
 import javax.validation.constraints.NotNull;
